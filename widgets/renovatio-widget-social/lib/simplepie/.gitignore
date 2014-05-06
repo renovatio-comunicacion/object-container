@@ -1,0 +1,4 @@
+*sandbox*
+vendor/
+demo/cache/*
+SimplePie.compiled.php
